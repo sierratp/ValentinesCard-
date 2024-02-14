@@ -1,0 +1,34 @@
+body{
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    margin-top: 10%;
+    background-color:#FFE4F0;
+}
+
+.message{
+    font-size: 30px;
+    font-weight: bold;
+    color: #DEA5BE;
+}
+
+.gif{
+    width: 200px;
+}
+
+.yes, .no{
+    border:none;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 20px;
+    width: 80px;
+    height: 50px;
+    border-radius: 20px;
+    
+}
+
+.yes{
+    background-color: #DEA5BE;
+}
+
+.no{
+    background-color: #DEA5BE;
+}

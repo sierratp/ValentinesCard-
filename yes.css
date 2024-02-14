@@ -1,0 +1,12 @@
+body{
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    margin-top: 10%;
+    background-color:#FFE4F0;
+}
+
+.message{
+    font-size: 30px;
+    font-weight: bold;
+    color: #DEA5BE;
+} 
